@@ -3,7 +3,8 @@
 /* The fit function is being given a totally preprocessed csv file, the functionality of pandas df like X.target selection
 isn't been added here. So we're just assuming for ease that the first value is the predictor and the second is the target,
 comma separated.*/
-
+/*The train and test datasets used have been extracted from : https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression 
+This is a Salary Dataset for Simple Linear Regression by Allena Venkata Sai Abhishek. */
 #include <iostream>
 #include <fstream>
 #include <sstream>
